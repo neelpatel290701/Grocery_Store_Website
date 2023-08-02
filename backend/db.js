@@ -7,7 +7,7 @@ const mongoDB = async () => {
 
         if (err) console.log("---", err);
         else {
-            // console.log({config})
+            console.log({config})
             console.log("Connect Successfully..");
             const foodCollection = await mongoose.connection.db.collection("grocery_data");
             foodCollection.find({}).toArray(async function (err, data) {
