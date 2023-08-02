@@ -1,0 +1,435 @@
+[
+    {
+        "CategoryName": "Fruits",
+        "name": "Apples",
+        "img": "https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg",
+        "options": [
+            {
+                "1/2 kg": "130",
+                "1 kg": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    } ,
+    {
+        "CategoryName": "Fruits",
+        "name": "Banana",
+        "img": "https://www.bobtailfruit.co.uk/pub/media/mageplaza/blog/post/4/2/42e9as7nataai4a6jcufwg.jpeg",
+        "options": [  
+            {
+                "1/ dozen": "50",
+                "1 dozen": "90"
+            }
+        ],
+
+        "description": "Rich in potassium and a good source of energy."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Grapes",
+        "img": "https://assets.thehansindia.com/h-upload/2021/08/25/1600x960_1104107-drapes.jpg",
+        "options": [
+            {
+                "250g": "80",
+                "500g": "150"
+            }
+        ],
+        "description": "Sweet and juicy, perfect for snacking."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Oranges",
+        "img": "https://static-bebeautiful-in.unileverservices.com/Why-you-must-eat-an-orange-every-day_1.jpg",
+        "options": [
+            {
+                "1 kg": "120",
+                "2 kg": "220"
+            }
+        ],
+        "description": "Loaded with vitamin C, great for boosting immunity."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Mangoes",
+        "img": "https://efresh.com/sites/default/files/fresh-mango2_1.jpg",
+        "options": [
+            {
+                "Alphonso": "150",
+                "Kesar": "120"
+            }
+        ],
+        "description": "The king of fruits, delicious and sweet."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Pineapple",
+        "img": "https://static.libertyprim.com/files/familles/ananas-large.jpg?1569271716",
+        "options": [
+            {
+                "1 piece": "80",
+                "2 pieces": "150"
+            }
+        ],
+        "description": "Sweet and tangy, adds a tropical touch to dishes."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Watermelon",
+        "img": "https://2hrsdelivery.in/wp-content/uploads/2021/12/Buy-yellow-watermelon-online-free-home-delivery-2hrsdelivery.in_.jpg",
+        "options": [
+            {
+                "1/4 piece": "60",
+                "1/2 piece": "100"
+            }
+        ],
+        "description": "Refreshing and hydrating, perfect for hot summer days."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Strawberries",
+        "img": "https://images.ctfassets.net/3s5io6mnxfqz/4zjsQfR3Q0lkGp8NNhL6vO/54db5f30c6866b06ea07b04c97b2cc2b/AdobeStock_143164126.jpeg",
+        "options": [
+            {
+                "250g": "100",
+                "500g": "180"
+            }
+        ],
+        "description": "Small and sweet, perfect for desserts and smoothies."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Carrots",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDReXF2ZVjsJLRfjYdT-zoIG70MF2iuSZO9w&usqp=CAU",
+        "options": [
+            {
+                "250g": "40",
+                "500g": "70"
+            }
+        ],
+        "description": "Crunchy and nutritious, great for salads and cooking."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Tomatoes",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/tomatoes-1528841836.jpg",
+        "options": [
+            {
+                "1 kg": "60",
+                "2 kg": "100"
+            }
+        ],
+        "description": "Versatile and flavorful, a staple in many dishes."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Spinach",
+        "img": "https://doorkisan.com/wp-content/uploads/2016/05/atyrpYQoxdoTzmEgu8HMWE.jpg",
+        "options": [
+            {
+                "250g": "25",
+                "500g": "45"
+            }
+        ],
+        "description": "Nutrient-rich and versatile, perfect for salads and sautés."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Broccoli",
+        "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2Fd852987f86aeae8b65926f9e7a260c28285ea744",
+        "options": [
+            {
+                "1 head": "50",
+                "2 heads": "90"
+            }
+        ],
+        "description": "Rich in vitamins and minerals, great for stir-fries and steaming."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Cauliflower",
+        "img": "https://img.taste.com.au/DBCUD8iO/taste/2007/05/cauliflower-181864-2.jpg",
+        "options": [
+            {
+                "1 head": "40",
+                "2 heads": "70"
+            }
+        ],
+        "description": "Versatile and nutritious, can be roasted, steamed, or used in curries."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Potatoes",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJoMPkyOfgo18og0DxlCG7EzkUrEJPowhpg&usqp=CAU",
+        "options": [
+            {
+                "1 kg": "30",
+                "2 kg": "50"
+            }
+        ],
+        "description": "Versatile and filling, great for mashing, roasting, or making fries."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Onions",
+        "img": "https://img2.exportersindia.com/product_images/bc-full/2020/4/7180345/fresh-red-onion-1586257073-5361367.jpeg",
+        "options": [
+            {
+                "1 kg": "25",
+                "2 kg": "40"
+            }
+        ],
+        "description": "Adds flavor to many dishes, essential for cooking."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Zucchini",
+        "img": "https://thrivemeetings.com/wp-content/uploads/2016/06/Zucchini%E2%80%94whole-partially-sliced.jpg",
+        "options": [
+            {
+                "1 piece": "20",
+                "3 pieces": "50"
+            }
+        ],
+        "description": "Mild and versatile, can be grilled, sautéed, or added to salads."
+    } ,
+    {
+        "CategoryName": "Dairy Products",
+        "name": "Milk",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSew7F8yPybAPiOFmWK6PONDYHKpjHY9E6lRg&usqp=CAU",
+        "options": [
+            {
+                "1 liter": "50",
+                "2 liters": "90"
+            }
+        ],
+        "description": "Fresh and nutritious, a staple for many households."
+    } ,
+
+    {
+        "CategoryName": "Dairy Products",
+        "name": "Amul Cheese",
+        "img": "https://gumlet.assettype.com/afaqs%2F2022-02%2F8c752404-4569-479d-bdc6-ca2fffab3159%2FUntitled_design__79_.png?w=1200&auto=format%2Ccompress&ogImage=true",
+        "options": [
+            {
+                "Cheddar": "100",
+                "Mozzarella": "120"
+            }
+        ],
+        "description": "Versatile and delicious, perfect for sandwiches and melting."
+    },
+    {
+        "CategoryName": "Dairy Products",
+        "name": "Yogurt",
+        "img": "https://www.nutraingredients-asia.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/food-beverage-nutrition/nutraingredients-asia.com/news/regulation-policy/china-authorities-consult-use-of-novel-bacteria-in-yogurt-dairy-products/15567098-1-eng-GB/China-authorities-consult-use-of-novel-bacteria-in-yogurt-dairy-products.png",
+        "options": [
+            {
+                "Plain": "40",
+                "Strawberry": "50"
+            }
+        ],
+        "description": "Creamy and probiotic, a healthy snack or ingredient in recipes."
+    },
+
+    {
+        "CategoryName": "Dairy Products",
+        "name": "Amul Butter",
+        "img": "https://slyce-product.s3.ap-south-1.amazonaws.com/MILK%20%26%20DAIRY%20PRODUCTS_null_AMUL%20PASTEURISED%20BUTTER%20100G_image_2022-06-09T11%3A23%3A04.817.jpg",
+        "options": [
+            {
+                "250g": "60",
+                "500g": "110"
+            }
+        ],
+        "description": "Creamy and rich, perfect for spreading on bread or cooking."
+    },
+    {
+        "CategoryName": "Dairy Products",
+        "name": "Eggs",
+        "img": "https://medicaldialogues.in/h-upload/2020/03/04/125161-egg.webp",
+        "options": [
+            {
+                "1 dozen": "50",
+                "2 dozen": "90"
+            }
+        ],
+        "description": "A versatile ingredient, rich in protein, perfect for cooking and baking."
+    },
+
+    {
+        "CategoryName": "Bread and Baked Goods",
+        "name": "White Bread",
+        "img": "https://www.ndtv.com/cooks/images/bread%20%281%29.jpg",
+        "options": [
+            {
+                "Loaf": "30",
+                "Baguette": "40"
+            }
+        ],
+        "description": "Classic and versatile bread, perfect for sandwiches or toast."
+    },
+
+    {
+        "CategoryName": "Bread and Baked Goods",
+        "name": "Whole Wheat Bread",
+        "img": "https://www.31daily.com/wp-content/uploads/2021/04/md-100-Whole-Wheat-Bread-11-1-of-1-scaled.jpg",
+        "options": [
+            {
+                "Loaf": "35",
+                "Multigrain": "40"
+            }
+        ],
+        "description": "Nutritious and fiber-rich bread, great for a healthier choice."
+    }
+    ,
+
+    {
+        "CategoryName": "Bread and Baked Goods",
+        "name": "Croissants",
+        "img": "https://www.escoffier.edu/wp-content/uploads/2015/04/classic-pastry-elements-online-training-course-.jpg",
+        "options": [
+            {
+                "Plain": "20",
+                "Chocolate-filled": "25"
+            }
+        ],
+        "description": "Flaky and buttery pastries, a breakfast or snack favorite."
+    }
+    ,
+
+    {
+        "CategoryName": "Bread and Baked Goods",
+        "name": "Cupcakes",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fpastries-hero-2000.jpg&q=60",
+        "options": [
+            {
+                "Vanilla": "15",
+                "Chocolate": "15"
+            }
+        ],
+        "description": "Indulgent and delightful mini cakes, perfect for celebrations."
+    }
+    ,
+    
+    {
+        "CategoryName": "Pasta, Rice, and Cereals",
+        "name": "Spaghetti",
+        "img": "https://iamhomesteader.com/wp-content/uploads/2021/06/spaghetti-bread-bowl-6.jpg",
+        "options": [
+            {
+                "500g": "40",
+                "1 kg": "70"
+            }
+        ],
+        "description": "Long, thin pasta strands, perfect with various sauces."
+    } ,
+
+    {
+        "CategoryName": "Pasta, Rice, and Cereals",
+        "name": "Basmati Rice",
+        "img": "https://media.istockphoto.com/id/519309790/photo/pile-of-raw-basmati-rice-with-a-spoon.jpg?s=612x612&w=0&k=20&c=A9A87HykypkOo5qLMQm6bZjBQn83NE1NHMppw8-6Tnc=",
+        "options": [
+            {
+                "1 kg": "60",
+                "5 kg": "250"
+            }
+        ],
+        "description": "Long-grain aromatic rice, perfect for Indian and Middle Eastern dishes."
+    }
+    ,
+
+    {
+        "CategoryName": "Pasta, Rice, and Cereals",
+        "name": "Oats",
+        "img": "https://post.healthline.com/wp-content/uploads/2020/03/oats-oatmeal-732x549-thumbnail.jpg",
+        "options": [
+            {
+                "500g": "35",
+                "1 kg": "60"
+            }
+        ],
+        "description": "Nutritious and versatile, great for breakfast or baking."
+    }
+    ,
+    
+    {
+        "CategoryName": "Pasta, Rice, and Cereals",
+        "name": "Corn Flakes",
+        "img": "https://images.healthshots.com/healthshots/en/uploads/2022/11/23093822/cornflakes.jpg",
+        "options": [
+            {
+                "250g": "25",
+                "500g": "40"
+            }
+        ],
+        "description": "Crunchy and lightly sweetened cereal, great for breakfast."
+    } ,
+
+    {
+        "CategoryName": "Pasta, Rice, and Cereals",
+        "name": "Quinoa",
+        "img": "https://www.greendna.in/cdn/shop/products/quinoa_1_700x.jpg?v=1568100117",
+        "options": [
+            {
+                "500g": "80",
+                "1 kg": "150"
+            }
+        ],
+        "description": "High in protein and fiber, a nutritious alternative to rice or pasta."
+    }
+    ,
+
+    {
+        "CategoryName": "Household and Cleaning",
+        "name": "Dishwashing Liquid",
+        "img": "https://www.athome-essentials.com/wp-content/uploads/2019/05/At-home-clean-dishwashing-liquid-lemon-500ml.jpg",
+        "options": [
+            {
+                "500ml": "25",
+                "1 liter": "40"
+            }
+        ],
+        "description": "Effective in removing grease and stains, leaves dishes sparkling clean."
+    } ,
+
+    {
+        "CategoryName": "Household and Cleaning",
+        "name": "Laundry Detergent",
+        "img": "https://m.media-amazon.com/images/I/71Woe34an7L.jpg",
+        "options": [
+            {
+                "1 kg": "50",
+                "2 kg": "90"
+            }
+        ],
+        "description": "Cleans and freshens clothes, suitable for both machine and handwashing."
+    }
+    ,
+
+    {
+        "CategoryName": "Household and Cleaning",
+        "name": "All-Purpose Cleaner",
+        "img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fart%2Fphoto%2F2020-04%2Fall-purpose-cleaner%2Fall-purpose-cleaner-lead",
+        "options": [
+            {
+                "500ml": "30",
+                "1 liter": "50"
+            }
+        ],
+        "description": "Versatile cleaner for various surfaces, cuts through grease and grime."
+    }
+    ,
+
+    {
+        "CategoryName": "Household and Cleaning",
+        "name": "Glass Cleaner",
+        "img": "https://cleansol.in/cdn/shop/files/Image1.jpg?v=1688372550&width=3000",
+        "options": [
+            {
+                "500ml": "40",
+                "1 liter": "70"
+            }
+        ],
+        "description": "Streak-free formula for crystal clear windows and mirrors."
+    } 
+    
+]
