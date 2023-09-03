@@ -12,7 +12,8 @@ export default function Signup() {
         const response = await fetch("https://grocery-store-website-backend.vercel.app/api/createuser", {
           // credentials: 'include',
           // Origin:"http://localhost:3000/login",
-          method: 'POST', 
+          method: 'POST',
+          mode: "cors", 
           headers: {
             'Content-Type': 'application/json'
           },
