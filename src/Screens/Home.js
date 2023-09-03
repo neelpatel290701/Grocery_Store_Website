@@ -12,7 +12,7 @@ export default function Home() {
     const [foodItem, setfoodItem] = useState([]);
 
     const loadData = async () => {
-        let response = await fetch("http://localhost:5000/api/foodData", {
+        let response = await fetch("https://grocery-store-website-backend.vercel.app/api/foodData", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
@@ -66,7 +66,7 @@ export default function Home() {
                 {
                     foodCat !== []
                         ?
-                        foodCat.map((data) => {
+                        foodCat?.map((data) => {
 
                             return (
                                 <div className='row mb-3'>
